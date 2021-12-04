@@ -40,7 +40,7 @@
   ```
   addAverageOf(1,3): 2
   addAverageOf(2,6): 6
-  addAverageOf(3,5): 8
+  addAverageOf(3,5): 10
   ```
 
   - You can use either way to accomplish the challenge (you'd better test it on your local computer):
