@@ -11,7 +11,7 @@
   ```
   addAverageOf(1,3): 2
   addAverageOf(2,6): 6
-  addAverageOf(3,5): 8
+  addAverageOf(3,5): 10
   ```
 
   - 你可以使用任意一种方法完成挑战（最好先在自己的本地电脑上测试通过）：
@@ -40,7 +40,7 @@
   ```
   addAverageOf(1,3): 2
   addAverageOf(2,6): 6
-  addAverageOf(3,5): 8
+  addAverageOf(3,5): 10
   ```
 
   - You can use either way to accomplish the challenge (you'd better test it on your local computer):
